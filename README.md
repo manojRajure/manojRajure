@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojrajure&label=Profile%20views&color=0e75b6&style=flat" alt="manojrajure" /> </p>
 
-- 🌱 I’m currently learning **1st Year Computer Engineering, Flutter Dev.**
+- 🌱 I’m currently learning **Application development using flutter**
 
 - 💬 Ask me about **App Dev., Flutter Dev., JAVA, C/C++**
 
 - 📫 How to reach me **rajuremanoj681@gmail.com**
-
-- ⚡ Fun fact **I think I am funny 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojrajure&show_icons=true&locale=en" alt="manojrajure" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojrajure&" alt="manojrajure" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manojRajure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
