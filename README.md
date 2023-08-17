@@ -3,16 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojrajure&label=Profile%20views&color=0e75b6&style=flat" alt="manojrajure" /> </p>
 
-- 🌱 I’m currently learning **Application development using flutter**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojrajure" alt="manojrajure" /></a> </p>
 
-- 💬 Ask me about **App Dev., Flutter Dev., JAVA, C/C++**
+- 🔭 I’m currently working on [Favorite-Place](https://github.com/manojRajure/Favorite_Places.)
+
+- 🌱 I’m currently learning **Flutter development**
+
+- 💬 Ask me about **App Dev., Flutter Dev., C++**
 
 - 📫 How to reach me **rajuremanoj681@gmail.com**
 
+- ⚡ Fun fact **I think I am funny 😎**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/manoj_r_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manoj_r_7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manoj-rajure-02a269254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-rajure-02a269254" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/r__manoj7?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/r__manoj7?igshid=zddkntzintm=" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/manojrajure/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manojrajure/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rajurema2tsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajurema2tsu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,6 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojrajure&show_icons=true&locale=en" alt="manojrajure" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojrajure&" alt="manojrajure" /></p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manojRajure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
